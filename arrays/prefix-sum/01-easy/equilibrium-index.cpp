@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-/*Given an array arr[] of size n, return an equilibrium index (if any) or -1 if no equilibrium index exists. The equilibrium index of an array is an index such that the sum of elements at lower indexes equals the sum of elements at higher indexes.
+/*Given an array arr[] of size n, return the first equilibrium index (if any) or -1 if no equilibrium index exists. The equilibrium index of an array is an index such that the sum of elements at lower indexes equals the sum of elements at higher indexes.
 
 Note: Return equilibrium point in 1-based indexing. Return -1 if no such point exists. 
 
