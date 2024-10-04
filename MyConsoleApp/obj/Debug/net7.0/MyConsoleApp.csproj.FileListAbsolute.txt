@@ -1,0 +1,15 @@
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+D:\Baptu\Study\Coding\DSA\dsa-repo\dsa-notes\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
